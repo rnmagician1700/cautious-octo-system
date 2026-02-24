@@ -6,3 +6,7 @@ How to push updates to git (in the folder where the code is stored locally)
 2. git remote add origin <>
 
 git pull origin main [to clone from github to local] 
+
+git status
+git add <filename>
+
