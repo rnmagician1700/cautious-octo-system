@@ -1,7 +1,0 @@
-How to add content github -- local
-
-How to push updates to git (in the folder where the code is stored locally)
-
-1. git init
-2. git remote add origin <>
-3. git pull origin main 
